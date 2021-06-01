@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm currently a Senior Software Engineer at XYZ
+🔭 I’m currently working with Data and GPUs. 🌱 I’m currently learning Rust. 👯 I’m looking to collaborate on open-source projects related to pandas or numpy 🤔 
 
 My current interests in Data Analytics and Scientific Computing include:
 
@@ -16,9 +16,9 @@ I have contributed to a number of open source projects:
 - CuDF -  GPU DataFrame Library
 - Blazingsql - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 
-During the last years, I was focused on GPU programming, GPU databases, GPU Data Analytics, Sparse Tensors and High-Performance Computing for distributed GPU systems. As a professional, I have more than 10+ years of experience in the software industry and in the academy as a professor at university level. Lot of experience with C/C++, Python, Java software development in UNIX/MAC environments. Whether it's a large system requiring robust conceptualization or AI/ML workload script, I'll write it.
+💬 Ask me about: I was focused on GPU programming, GPU databases, GPU Data Analytics, Sparse Tensors and High-Performance Computing for distributed GPU systems. As a professional, I have more than 10+ years of experience in the software industry and in the academy as a professor at university level. Lot of experience with C/C++, Python, Java software development in UNIX/MAC environments. Whether it's a large system requiring robust conceptualization or AI/ML workload script, I'll write it.
 
-How to reach me: Linkedin, Twitter
+📫 How to reach me: Linkedin, Twitter
 
 <!--
 Fun facts:
