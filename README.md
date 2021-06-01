@@ -18,7 +18,7 @@ I have contributed to a number of open source projects:
 
 💬 Ask me about: I was focused on GPU programming, GPU databases, GPU Data Analytics, Sparse Tensors and High-Performance Computing for distributed GPU systems. As a professional, I have more than 10+ years of experience in the software industry and in the academy as a professor at university level. Lot of experience with C/C++, Python, Java software development in UNIX/MAC environments. Whether it's a large system requiring robust conceptualization or AI/ML workload script, I'll write it.
 
-📫 How to reach me: [linkedin](https://www.linkedin.com/in/aocsa/), [twitter](https://twitter.com/aocsa), [more about me](linktr.ee/aocsa)
+📫 How to reach me: [linkedin](https://www.linkedin.com/in/aocsa/), [twitter](https://twitter.com/aocsa), [more about me](https://linktr.ee/aocsa)
 
 <!--
 Fun facts:
