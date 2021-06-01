@@ -12,9 +12,9 @@ My current interests in Data Analytics and Scientific Computing include:
 
 I have contributed to a number of open source projects:
 
-- Pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- CuDF -  GPU DataFrame Library
-- Blazingsql - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
+- [Pytorch](http://github.com/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [CuDF](https://github.com/rapidsai/cudf) -  GPU DataFrame Library
+- [Blazingsql](https://github.com/blazingdb/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 
 💬 Ask me about: I was focused on GPU programming, GPU databases, GPU Data Analytics, Sparse Tensors and High-Performance Computing for distributed GPU systems. As a professional, I have more than 10+ years of experience in the software industry and in the academy as a professor at university level. Lot of experience with C/C++, Python, Java software development in UNIX/MAC environments. Whether it's a large system requiring robust conceptualization or AI/ML workload script, I'll write it.
 
