@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working with Data and GPUs. 🌱 I’m currently learning Rust oriented to data analytics. 👯 I’m looking to collaborate on open-source projects related to pandas or numpy 🤔 
+🔭 I’m currently working with Data and GPUs. 🌱 I’m currently learning Rust oriented to data analytics. I’m looking to collaborate on open-source projects related to pandas or numpy 🤔 
 
 My current interests in Data Analytics and Scientific Computing include:
 
