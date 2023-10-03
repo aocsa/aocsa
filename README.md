@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 With over a decade of seasoned experience in both the software industry and academia, I bring a deep understanding of data analytics, GPU programming, and scientific computing. My expertise encompasses database and query optimization, multimedia databases, information retrieval, and algorithm implementation, with a special focus on GPU programming using CUDA and sparse array theory, particularly with PyTorch sparse tensor support.
+🔭 With over a decade of seasoned experience in both the software industry and academia, I bring a deep understanding of data analytics, GPU programming, and scientific computing. 
 
 My current interests in Data Analytics and Scientific Computing include:
 
