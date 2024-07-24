@@ -2,14 +2,15 @@ Database and GPU Performance Engineer | Data Analytics & Acceleration Specialist
 
 About
 
-I am a results-driven engineer with over a decade of experience in software engineering and academic research. My specialization lies in database optimization and GPU-accelerated computing. I am passionate about maximizing performance and efficiency at the intersection of data analytics and high-performance computing.
+Staff software engineer with 10+ years of experience in software engineering and academic research, driving breakthrough performance in database optimization and GPU-accelerated computing. Proven track record of architecting high-performance solutions at the intersection of big data analytics and cutting-edge hardware acceleration.
 
 Core Expertise
 
-* Expertise in query optimization, indexing strategies, and architectural design to enhance database system throughput and responsiveness.
-* Proficiency in leveraging CUDA and GPU-accelerated libraries (e.g., PyTorch, CuDF) to achieve significant speedups in data-intensive workloads.
-* Specialization in PyTorch sparse tensor support for efficient handling of large-scale, sparse datasets.
-* Strong background in designing and implementing high-performance algorithms for complex data processing and analysis.
+- Advanced query optimization and indexing strategies, consistently delivering large improvements in database system throughput and responsiveness
+- GPU acceleration mastery, leveraging CUDA and libraries like PyTorch and CuDF to achieve 10x-50x speedups in data-intensive workloads
+- Pioneer in PyTorch sparse tensor support, enabling efficient processing of large-scale, sparse datasets
+- Algorithm design specialist, creating novel solutions for complex data processing challenges in big data environments
+
 
 Open-Source Contributions 
 
@@ -18,7 +19,7 @@ Open-Source Contributions
 - [CuDF](https://github.com/rapidsai/cudf) -  GPU DataFrame Library
 - [Blazingsql](https://github.com/blazingdb/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 
-💬 Ask me about:  I am always eager to connect with like-minded professionals and explore opportunities to push the boundaries of what’s possible with data and high-performance computing. Feel free to reach out for collaborations or discussions on related topics.
+💬 Ask me about: I am enthusiastic about connecting with fellow professionals who share a passion for innovation in data and high-performance computing. If you're interested in collaborating or discussing related topics, please don’t hesitate to reach out!
 
 📫 How to reach me: [linkedin](https://www.linkedin.com/in/aocsa/), [twitter](https://twitter.com/aocsa), [more about me](https://linktr.ee/aocsa)
 
