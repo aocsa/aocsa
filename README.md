@@ -1,10 +1,10 @@
-Database and GPU Performance Engineer | Data Analytics & Acceleration Specialist
+## Database and GPU Performance Engineer | Specialist in Data Analytics 
 
-About
+### About
 
 Staff software engineer with 10+ years of experience in software engineering and academic research, driving breakthrough performance in database optimization and GPU-accelerated computing. Proven track record of architecting high-performance solutions at the intersection of big data analytics and cutting-edge hardware acceleration.
 
-Core Expertise
+### Core Expertise
 
 - Advanced query optimization and indexing strategies, consistently delivering large improvements in database system throughput and responsiveness
 - GPU acceleration mastery, leveraging CUDA and libraries like PyTorch and CuDF to achieve 10x-50x speedups in data-intensive workloads
@@ -12,7 +12,7 @@ Core Expertise
 - Algorithm design specialist, creating novel solutions for complex data processing challenges in big data environments
 
 
-Open-Source Contributions 
+### Open-Source Contributions 
 
 - [Apache Arrow](http://github.com/apache/arrow) - A development platform for in-memory analytics. 
 - [Pytorch](http://github.com/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
