@@ -1,4 +1,4 @@
-## 🚀 Database and GPU Software Engineer | Specialist in Data Analytics 
+## 🚀 Database and GPU Software Engineer
 
 ### 👋 About Me
 
