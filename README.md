@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-I hold a PhD in Computer Science and bring over 10 years of experience in software engineering, specializing in performance optimization and GPU-accelerated computing. I have a proven track record of driving significant improvements in database optimization, numerical computing, and deep learning, contributing to leading open-source projects such as PyTorch, Apache Arrow, NVIDIA RapidsAI, and more.
+I hold a PhD in Computer Science and bring over 10 years of experience in software engineering, specializing in performance optimization and GPU-accelerated computing. I have a proven track record of driving significant improvements in query engine optimization, numerical computing, and deep learning, contributing to leading open-source projects such as PyTorch, Apache Arrow, NVIDIA RapidsAI, and more.
 
 ### 🛠 Core Expertise
 
