@@ -2,9 +2,7 @@
 
 ### 👋 About Me
 
-I hold a PhD in Computer Science and bring over 10 years of experience in software engineering, specializing in performance optimization and GPU-accelerated computing. I have a proven track record of driving significant improvements in query engine optimization, numerical computing, and deep learning, contributing to leading open-source projects such as PyTorch, Apache Arrow, NVIDIA RapidsAI, and more.
-
-I’m currently a Staff Software Engineer at VoltronData, working with the [Theseus](https://voltrondata.com/benchmarks) team to develop a cutting-edge GPU Query Engine designed to handle petabyte-scale data. Theseus is optimized for massive ETL, SQL, and dataframe workloads, leaving CPUs behind for full native acceleration. We’re integrating advanced techniques from previous computing times to create the most powerful data engine in the world.
+Systems engineer with a PhD in computer science and over a decade of hands-on experience accelerating analytics, I've zeroed in on GPU-accelerated query engines and high-performance numerical computing stacks. Throughout my career, I've crafted sophisticated parallel software that taps into the raw power of diverse hardware accelerators—like GPUs, pushing them to their limits in real-world applications. I'm excited to dive in and elevate the functional depth, raw speed, scalability, and rock-solid reliability of those essential data processing operators at the heart of analytics engines or deep learning stacks.
 
 ### 🛠 Core Expertise
 
