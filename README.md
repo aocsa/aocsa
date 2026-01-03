@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-Systems engineer with a PhD in computer science and over a decade of hands-on experience accelerating analytics, I've zeroed in on GPU-accelerated query engines and high-performance numerical computing stacks. Throughout my career, I've crafted sophisticated parallel software that taps into the raw power of diverse hardware accelerators—like GPUs, pushing them to their limits in real-world applications. I'm excited to dive in and elevate the functional depth, raw speed, scalability, and rock-solid reliability of those essential data processing operators at the heart of analytics engines or deep learning stacks.
+I am a PhD Systems Engineer dedicated to the intersection of hardware acceleration and data science. For over a decade, I’ve built high-performance query engines and numerical computing libraries that squeeze every drop of power out of GPUs and diverse hardware stacks. My focus is on engineering the next generation of data processing operators—ensuring they are not just faster, but more scalable and resilient for the most demanding deep learning and analytics workloads.
 
 ### 🛠 Core Expertise
 
